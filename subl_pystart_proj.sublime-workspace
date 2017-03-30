@@ -1,0 +1,703 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__em",
+				"__name__"
+			],
+			[
+				"req",
+				"ReqStrSugRepr\tclass"
+			],
+			[
+				"type",
+				"TypeError\tclass"
+			],
+			[
+				"f",
+				"fo\tstatement"
+			],
+			[
+				"val",
+				"ValueError\tclass"
+			],
+			[
+				"os",
+				"OSError\tclass"
+			],
+			[
+				"pick",
+				"PicklingError\tclass"
+			],
+			[
+				"Ind",
+				"IndexError\tclass"
+			],
+			[
+				"up",
+				"UnpicklingError\tclass"
+			],
+			[
+				"ti",
+				"timeWarppedObj\tstatement"
+			],
+			[
+				"TIme",
+				"TimedWarpMe\tclass"
+			],
+			[
+				"get",
+				"gettimeval\tfunction"
+			],
+			[
+				"op",
+				"operator\tmodule"
+			],
+			[
+				"__str",
+				"__string\tstatement"
+			],
+			[
+				"st",
+				"__string"
+			],
+			[
+				"jo",
+				"john2\tstatement"
+			],
+			[
+				"Emp",
+				"EmpAddrBookEntry\tclass"
+			],
+			[
+				"tes",
+				"TestClassMethod\tclass"
+			],
+			[
+				"test",
+				"TestClassMethod\tclass"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"c",
+				"count\tstatement"
+			],
+			[
+				"inst",
+				"InstCt\tclass"
+			],
+			[
+				"Add",
+				"AddrBookEntry\tclass"
+			],
+			[
+				"post",
+				"post_logged\tfunction"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"frist",
+				"firstLast\tfunction"
+			],
+			[
+				"first",
+				"fristNonBlank\tfunction"
+			],
+			[
+				"tu",
+				"True\tinstance"
+			],
+			[
+				"key",
+				"KeyboardInterrupt\tclass"
+			],
+			[
+				"nex",
+				"__next__\tclass"
+			],
+			[
+				"dd",
+				"ddict2\tstatement"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"Int",
+				"integer"
+			],
+			[
+				"foo",
+				"foolclass\tclass"
+			],
+			[
+				"se",
+				"segment_max\tfunction"
+			],
+			[
+				"ab",
+				"absolute\tinstance"
+			],
+			[
+				"im",
+				"imshow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "twrapme.py",
+			"settings":
+			{
+				"buffer_size": 1140,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "time60.py",
+			"settings":
+			{
+				"buffer_size": 822,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "git commit  ",
+		"selected_items":
+		[
+			[
+				"git commit  ",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git log ",
+				"Git: Log All"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Tag"
+			],
+			[
+				"git branch",
+				"Git: New Branch"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Commit history"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tmlp",
+				"Tmpl: Create python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tmp",
+				"Tmpl: Create python"
+			],
+			[
+				"tmpl",
+				"Tmpl: Create python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"disp",
+				"Anaconda: Display object docs"
+			],
+			[
+				"find use",
+				"Anaconda: Find object usage"
+			],
+			[
+				"ana",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"ana goto",
+				"Anaconda: Goto Python object"
+			],
+			[
+				"able",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"disab",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 394.0
+	},
+	"console":
+	{
+		"height": 297.0,
+		"history":
+		[
+			"sys.version",
+			"import sys",
+			"sys",
+			"1+2",
+			"$c:",
+			"c:",
+			"subl",
+			"build",
+			"ln -s &quot;/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl&quot; ~/bin/subl",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Nutstore/workspaces/python_workspace/python_start"
+	],
+	"file_history":
+	[
+		"/E/Nutstore/workspaces/python_workspace/python_start/descr.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/main.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/E/Nutstore/workspaces/learngit2/learngit/tf_test.py",
+		"/E/Nutstore/workspaces/learngit/numstr.py",
+		"/E/Nutstore/workspaces/learngit/meta.py",
+		"/E/Nutstore/workspaces/learngit/tf_test.py",
+		"/E/Nutstore/workspaces/learngit/README.md",
+		"/C/Users/Administrator/.ssh/id_rsa.pub",
+		"/C/Users/Administrator/.ssh/github_rsa.pub",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/python_start/class_example.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/numstr.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/time60.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/meta.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/descr_example.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/maf",
+		"/E/Nutstore/workspaces/python_workspace/python_start/twrapme.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/hw2.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/grabweb.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/deco.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/funcLog.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/tf_test.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/func_closure_example.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/image_denoising/anisotropic_diff.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/image_denoising/anisodiff_denoising_1.pdf",
+		"/E/Nutstore/workspaces/python_workspace/python_start/func_closure_example",
+		"/C/Users/Administrator/AppData/Local/Temp/tmp30wzd8p9",
+		"/C/Users/Administrator/AppData/Local/Temp/tmp81fqo1vj",
+		"/E/Nutstore/workspaces/python_workspace/python_start/deo.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/easymath.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/pytest.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/subl_pystart_proj.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/E/Nutstore/workspaces/python_workspace/python_start/pytest2.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/python_start/input.txt",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/python_start/hw1.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/hw3.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/image_denoising/fft_img_denoising.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/PoissonImageEditing/conj_grad.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/PoissonImageEditing/gau_elim.py",
+		"/E/Nutstore/workspaces/python_workspace/python_start/hw4.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+		"/E/Nutstore/workspaces/python_workspace/datamining_assig/assig.py",
+		"/E/Nutstore/workspaces/python_workspace/datamining_assig/myfunc_lib.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/D/ProgramData/Anaconda3/envs/python35/lib/site-packages/tensorflow/python/ops/math_ops.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Pylinter/Pylinter.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/D/ProgramData/Anaconda3/envs/python35/lib/site-packages/numpy/lib/function_base.py",
+		"/D/ProgramData/Anaconda3/envs/python35/lib/site-packages/tensorflow/python/client/client_lib.py",
+		"/D/ProgramData/Anaconda3/envs/python35/lib/site-packages/tensorflow/python/ops/gen_data_flow_ops.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/E/Nutstore/workspaces/python_workspace/python_start/conda_test.py",
+		"/D/ProgramData/Anaconda3/Lib/site-packages/pylint/test/regrtest_data/.pylintrc",
+		"/D/ProgramData/Anaconda3/envs/python35/Lib/site-packages/pylint/test/regrtest_data/.pylintrc",
+		"/E/Nutstore/workspaces/python_workspace/python_start/.vscode/settings.json",
+		"/C/Users/Administrator/AppData/Roaming/Code/User/settings.json",
+		"/E/Nutstore/workspaces/python_workspace/python_start/test2.py",
+		"/E/Nutstore/workspaces/python_workspace/csmath/hw3/hw3.py",
+		"/D/ProgramData/Anaconda3/lib/pdb.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/anaconda_go/README.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/anaconda_go/Anaconda_GO.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/csmath/hw1/hw1.py",
+		"/D/ProgramData/Anaconda3/envs/python35/Lib/site-packages/tensorflow/models/image/mnist/convolutional.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/C/Users/Administrator/.condarc",
+		"/E/Nutstore/workspaces/python_workspace/python_start/test.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/E/Nutstore/workspaces/latex_workspaces/Research/dVBJS/dVBJS_v5/mybibfile.bib",
+		"/E/Nutstore/workspaces/latex_workspaces/Research/dVBJS/dVBJS_v5/bibtest.bbl",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/csmath/hw2/hw2.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/ProgramData/Anaconda3/lib/pprint.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/.no-sublime-package",
+		"/E/Nutstore/workspaces/python_workspace/csmath/gnuplot_2.py",
+		"/E/Nutstore/workspaces/python_workspace/csmath/image_processing_test.py",
+		"/E/Nutstore/workspaces/python_workspace/spyder_workspace/hellp.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/E/Nutstore/workspaces/python_workspace/pycharm_test/ex45.py",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/C/Users/Administrator/Desktop/aa.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Foo",
+			"()\n",
+			")",
+			"foo1",
+			"python",
+			"builder",
+			"sum",
+			"array(",
+			"linalg",
+			"matrix",
+			"zeros",
+			"np.",
+			",\n",
+			"&quot;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"func",
+			"np.array(",
+			"np.linalg",
+			"np.matrix",
+			"np.zeros",
+			"",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "twrapme.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "time60.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.793936279547,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 605.0
+	},
+	"output.autopep8":
+	{
+		"height": 188.0
+	},
+	"output.exec":
+	{
+		"height": 345.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 179.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "subl_pystart_proj.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
