@@ -1,6 +1,4 @@
 # just for learning python
-## machine 
-### machine
 
 `python`
 
@@ -20,23 +18,13 @@ class ReqStrSugRepr(type):
                 stacklevel=3)
 
 ```
-``hello``
-*machine*
-`machine`
-
-
-`goodd`
-
-$a^2= 2$
-
-
+ 
+ 
 > machine
-> 
-this is **rednerd as bold text**
+> this is **rednerd as bold text**
 
-== machine====
-
-| machine | learning |
+ 
+`python`
 
 ```python
 import tempfile; print(tempfile.gettempdir())
@@ -45,17 +33,15 @@ import tempfile; print(tempfile.gettempdir())
         
 > hello world!
 
-*machine
 
-* machine 
+*machine learning*
 
-1. machine 
-2. hello 
-3.
+* git add README.md
+* git commit -m 'something'
+* git puch origin master
+* done!
 
-
-* machine
-* hello 
+`python`
 
 ```python
     def __init__(self, num=0, string=''):
@@ -63,6 +49,8 @@ import tempfile; print(tempfile.gettempdir())
         self.__string = string
         __slots__ = ('fo','bar')
 ```
+
+`java`
 
 ```java
 public hello{
@@ -72,6 +60,8 @@ public hello{
     }
 }
 ```
+
+`c`
 
 ```c
 
