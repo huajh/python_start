@@ -20,7 +20,7 @@ def sin_wgn_sample(num):
 
 
 def curve_poly_fit(x, y, M, Reg=0):
-    # Least squares solution : w = (P^TP)^{-1} (P^Ty)
+    # Least squares solution : w = (P^TP)^{-1} (P^Ty)  
     # degree M
     N = x.size
     P = mat(zeros(shape=(M + 1, N)))

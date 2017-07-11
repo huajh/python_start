@@ -18,7 +18,7 @@ class ReqStrSugRepr(type):
                 stacklevel=3)
 
 ```
- 
+
  
 > machine
 > this is **rednerd as bold text**
@@ -70,4 +70,3 @@ int main()
     print("hello world!")
 }
 ```
-

@@ -14,7 +14,7 @@ def foo1():
     pass
 
 if __name__ == '__main__':
-    foo1()
+    foo1()    
     sleep(4)
     for i in range(2):
         sleep(1)
